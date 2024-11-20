@@ -37,8 +37,8 @@ echo "Hello World";
 </html>
 ```
 ## OUTPUT
-### REG NUMBER:212222100054
-### NAME:Tejusve Kabeer F
+### REG NUMBER:21222210005
+### NAME:VARSHINI S A
 ### Terminal:
 ![image](https://github.com/user-attachments/assets/11c8759d-dd33-4262-92bb-1e5075e9a1ff)
 
